@@ -1,0 +1,5 @@
+greenadexchange.com, 12345, DIRECT, d75815a79
+silverssp.com, 9675, RESELLER, f496211
+blueadexchange.com, XF436, DIRECT
+orangeexchange.com, 45678, RESELLER
+silverssp.com, ABE679, RESELLER
